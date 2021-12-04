@@ -8,3 +8,4 @@ Sample website with plenty of files for demos
 
 ###
 2014 Git.training
+For this repository, issue pull request 
